@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dolg", "dolg\dolg.csproj", "{9FF3B541-8FC0-40E4-8D26-BECA7DF5E35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF3B541-8FC0-40E4-8D26-BECA7DF5E35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF3B541-8FC0-40E4-8D26-BECA7DF5E35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF3B541-8FC0-40E4-8D26-BECA7DF5E35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF3B541-8FC0-40E4-8D26-BECA7DF5E35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64715A0F-17AE-44BE-879F-B241209BC7E5}
+	EndGlobalSection
+EndGlobal
